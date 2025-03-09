@@ -1,4 +1,3 @@
-# linux-vps-setup
 # **🚀 Linux Server Setup & Configuration**
 
 ## **📖 Project Overview**
