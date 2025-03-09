@@ -22,6 +22,7 @@ This setup is designed for **Ubuntu or CentOS** servers and includes:
  ┣ 📜 deploy.sh            # Automation script for server setup
  ┗ 📂 src/                 # Additional configurations & resources
 ```
+🚨 **Note:** Additional automation scripts are not included in this public repository.  
 
 ## **📖 Documentation**
 📜 **[LOCAL_SETUP.md](LOCAL_SETUP.md)** – Step-by-step guide for setting up the server manually.  
